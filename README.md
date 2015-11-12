@@ -8,8 +8,9 @@
 
 - **[成长的朦胧](./life/%E6%88%90%E9%95%BF.md)**
 
-> ###读后感
+> ###休闲篇
 
+- [罗辑思维](./reading/luojisw.md)
 - [哲学与人生](./reading/%E5%93%B2%E5%AD%A6%E4%B8%8E%E4%BA%BA%E7%94%9F.md)
 - [世界是平的](./reading/%E4%B8%96%E7%95%8C%E6%98%AF%E5%B9%B3%E7%9A%84.md)
 
