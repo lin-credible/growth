@@ -14,6 +14,10 @@
 - [哲学与人生](./reading/%E5%93%B2%E5%AD%A6%E4%B8%8E%E4%BA%BA%E7%94%9F.md)
 - [世界是平的](./reading/%E4%B8%96%E7%95%8C%E6%98%AF%E5%B9%B3%E7%9A%84.md)
 
-> ###技术篇
+> ###工作篇
 
+- [linux](https://www.google.com/?q=linux )
+- [javascript](https://www.google.com/?q=javascript)
+- [php](https://www.google.com/?q=php)
+- [......](https://www.google.com/?q=computer)
 
