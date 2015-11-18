@@ -3,8 +3,6 @@
 
 ##成长
 
-> ###生活篇
-
 ![Enjoy_Life](./life/enjoy_life.png)
 
 > ###休闲篇
