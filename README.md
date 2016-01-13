@@ -22,3 +22,17 @@
 - [php](https://www.google.com/?q=php)
 - [其他](https://www.google.com/?q=computer)
 
+> ###感悟篇
+- [为自己](./life/20160113.md)
+
+
+
+
+
+
+
+
+
+
+
+
