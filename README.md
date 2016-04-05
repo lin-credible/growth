@@ -17,10 +17,11 @@
 
 > ###工作篇
 
-- [linux](https://www.google.com/?q=linux )
-- [javascript](https://www.google.com/?q=javascript)
-- [php](https://www.google.com/?q=php)
-- [其他](https://www.google.com/?q=computer)
+- linux
+- shell
+- javascript
+- php
+- 其他
 
 > ###感悟篇
 
