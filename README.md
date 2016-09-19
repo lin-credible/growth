@@ -14,6 +14,7 @@
 - [一课经济学](./reading/economics-in-one-lesson.md)
 - [数学之美](./reading/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.md)
 - [REWORK](./reading/FRIED_Jason_-_Rework.pdf)
+- [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296)
 
 > ###工作篇
 
